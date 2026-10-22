@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <plugins>
-  <pyqgis_plugin name="Plan Stages" version="0.11.0">
+  <pyqgis_plugin name="Plan Stages" version="0.11.1">
     <description>Stage-by-stage fibre planning with operator approval after every stage.</description>
-    <version>0.11.0</version>
+    <version>0.11.1</version>
     <qgis_minimum_version>4.0</qgis_minimum_version>
     <qgis_maximum_version>4.99</qgis_maximum_version>
     <author_name>Velocity Fibre</author_name>
-    <file_name>plan_stages-0.11.0.zip</file_name>
-    <download_url>https://raw.githubusercontent.com/Zander1798/plan-stages-dist/main/plan_stages-0.11.0.zip</download_url>
-    <update_date>2026-10-21</update_date>
+    <file_name>plan_stages-0.11.1.zip</file_name>
+    <download_url>https://raw.githubusercontent.com/Zander1798/plan-stages-dist/main/plan_stages-0.11.1.zip</download_url>
+    <update_date>2026-10-22</update_date>
     <experimental>False</experimental>
     <deprecated>False</deprecated>
   </pyqgis_plugin>
