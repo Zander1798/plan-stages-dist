@@ -1,6 +1,6 @@
 # Plan Stages — QGIS plugin repository
 
-Stage-by-stage fibre planning for QGIS 4, with operator approval after every stage (Velocity Fibre).
+Stage-by-stage fibre planning for QGIS 3 and QGIS 4, with operator approval after every stage (Velocity Fibre).
 
 ## Install
 
